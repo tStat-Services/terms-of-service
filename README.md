@@ -7,12 +7,13 @@ By using any services provided by tStat, you acknowledge and agree to be bound b
 
 
 ## 2. Modifications to Terms of Service
-tStat may change these Terms from time to time.
+tStat may change / add to these Terms from time to time.
 
 - Your continued use of the Service after changes are posted constitutes:
   1. Your acknowledgment of the modified Terms; and
   2. Your agreement to abide by and be bound by the modified Terms.
-Failure to abide by the modified Terms may result in blacklist from all tStat services
+  
+Failure to abide by the modified Terms may result in blacklist from all tStat services.
 
 
 ## 3. No Official Affiliation
